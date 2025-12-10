@@ -1,0 +1,376 @@
+[
+  {
+    "movie_id": 157336,
+    "title": "인터스텔라",
+    "original_title": "Interstellar",
+    "runtime": 169,
+    "genres": [
+      {"id": 15, "name": "SF"},
+      {"id": 7, "name": "드라마"}
+    ],
+    "vote_average": 8.6,
+    "popularity": 80.5,
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "overview": "세계 각국의 정부와 경제가 완전히 붕괴된 미래가 다가온다. 지난 20세기에 범한 잘못이 전 세계적인 식량 부족을 불러왔고, NASA도 해체되었다. 이때 시공간에 불가사의한 틈이 열리고, 남은 자들에게는 이 곳을 탐험해 인류를 구해야 하는 임무가 주어진다.",
+    "release_date": "2014-11-05",
+    "adult": false,
+    "providers": [{"provider_id": 8, "provider_name": "Netflix"}],
+    "tags": ["반전", "영상미", "감동", "SF"]
+  },
+  {
+    "movie_id": 27205,
+    "title": "인셉션",
+    "original_title": "Inception",
+    "runtime": 148,
+    "genres": [
+      {"id": 1, "name": "액션"},
+      {"id": 15, "name": "SF"},
+      {"id": 2, "name": "모험"}
+    ],
+    "vote_average": 8.4,
+    "popularity": 75.2,
+    "poster_path": "/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "overview": "타인의 꿈에 들어가 생각을 훔치는 특수 보안요원 돔 코브. 그는 누명을 벗고 가족의 품으로 돌아가기 위해 불가능한 임무를 맡게 된다. 생각을 훔치는 것이 아닌, 생각을 심어야 하는 '인셉션'.",
+    "release_date": "2010-07-15",
+    "adult": false,
+    "providers": [{"provider_id": 337, "provider_name": "Disney Plus"}],
+    "tags": ["반전", "액션", "복잡한스토리", "SF"]
+  },
+  {
+    "movie_id": 496243,
+    "title": "기생충",
+    "original_title": "Parasite",
+    "runtime": 132,
+    "genres": [
+      {"id": 4, "name": "코미디"},
+      {"id": 16, "name": "스릴러"},
+      {"id": 7, "name": "드라마"}
+    ],
+    "vote_average": 8.5,
+    "popularity": 85.3,
+    "poster_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+    "overview": "전원백수로 살길 막막하지만 사이는 좋은 기택 가족. 장남 기우에게 명문대생 친구가 연결시켜 준 고액 과외 자리는 모처럼 들어온 호재다. 온 가족의 도움과 기대 속에 박사장 집으로 향한다.",
+    "release_date": "2019-05-30",
+    "adult": false,
+    "providers": [{"provider_id": 356, "provider_name": "Wavve"}],
+    "tags": ["반전", "사회비판", "블랙코미디", "긴장감"]
+  },
+  {
+    "movie_id": 550,
+    "title": "파이트 클럽",
+    "original_title": "Fight Club",
+    "runtime": 139,
+    "genres": [
+      {"id": 7, "name": "드라마"},
+      {"id": 16, "name": "스릴러"}
+    ],
+    "vote_average": 8.4,
+    "popularity": 65.8,
+    "poster_path": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "overview": "불면증에 시달리는 젊은 사무원이 비누 판매원 타일러 더든을 만나 지하 파이트 클럽을 결성하면서 벌어지는 이야기. 현대 사회의 소비문화와 남성성에 대한 비판을 담고 있다.",
+    "release_date": "1999-10-15",
+    "adult": false,
+    "providers": [{"provider_id": 8, "provider_name": "Netflix"}],
+    "tags": ["반전", "폭력", "철학적", "컬트"]
+  },
+  {
+    "movie_id": 680,
+    "title": "펄프 픽션",
+    "original_title": "Pulp Fiction",
+    "runtime": 154,
+    "genres": [
+      {"id": 16, "name": "스릴러"},
+      {"id": 5, "name": "범죄"}
+    ],
+    "vote_average": 8.5,
+    "popularity": 60.2,
+    "poster_path": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "overview": "두 명의 청부 살인업자, 권투 선수, 갱스터의 아내, 그리고 커피숍 강도들의 이야기가 교차하는 쿠엔틴 타란티노 감독의 걸작 범죄 드라마.",
+    "release_date": "1994-09-10",
+    "adult": false,
+    "providers": [{"provider_id": 337, "provider_name": "Disney Plus"}],
+    "tags": ["비선형구조", "대사", "폭력", "블랙코미디"]
+  },
+  {
+    "movie_id": 238,
+    "title": "대부",
+    "original_title": "The Godfather",
+    "runtime": 175,
+    "genres": [
+      {"id": 7, "name": "드라마"},
+      {"id": 5, "name": "범죄"}
+    ],
+    "vote_average": 8.7,
+    "popularity": 70.5,
+    "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "overview": "시실리에서 미국으로 이민온 비토 코를레오네는 뉴욕에서 강대한 세력의 마피아 패밀리를 이루며 '대부'라 불린다. 그의 막내아들 마이클은 가업을 잇기 싫어하지만...",
+    "release_date": "1972-03-14",
+    "adult": false,
+    "providers": [{"provider_id": 97, "provider_name": "Watcha"}],
+    "tags": ["명작", "마피아", "가족", "클래식"]
+  },
+  {
+    "movie_id": 129,
+    "title": "센과 치히로의 행방불명",
+    "original_title": "千と千尋の神隠し",
+    "runtime": 125,
+    "genres": [
+      {"id": 3, "name": "애니메이션"},
+      {"id": 8, "name": "가족"},
+      {"id": 9, "name": "판타지"}
+    ],
+    "vote_average": 8.5,
+    "popularity": 78.9,
+    "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "overview": "10살 소녀 치히로는 부모님과 함께 이사를 가던 중 신비로운 터널을 지나 이상한 세계로 들어가게 된다. 부모님이 돼지로 변해버리고, 치히로는 이 세계에서 살아남기 위해 온천에서 일하게 된다.",
+    "release_date": "2001-07-20",
+    "adult": false,
+    "providers": [{"provider_id": 8, "provider_name": "Netflix"}],
+    "tags": ["지브리", "성장", "판타지", "감동"]
+  },
+  {
+    "movie_id": 1891,
+    "title": "스타워즈: 제국의 역습",
+    "original_title": "Star Wars: Episode V - The Empire Strikes Back",
+    "runtime": 124,
+    "genres": [
+      {"id": 2, "name": "모험"},
+      {"id": 1, "name": "액션"},
+      {"id": 15, "name": "SF"}
+    ],
+    "vote_average": 8.4,
+    "popularity": 55.3,
+    "poster_path": "/2l05cFWJacyIsTpsqSgH0wQXe4V.jpg",
+    "overview": "반란군 동맹이 호스 행성에 기지를 세우지만 제국군의 공격으로 흩어진다. 루크 스카이워커는 요다에게 제다이 수련을 받고, 한 솔로와 레아 공주는 다스 베이더에게 쫓긴다.",
+    "release_date": "1980-05-20",
+    "adult": false,
+    "providers": [{"provider_id": 337, "provider_name": "Disney Plus"}],
+    "tags": ["SF", "우주", "명작", "반전"]
+  },
+  {
+    "movie_id": 19995,
+    "title": "아바타",
+    "original_title": "Avatar",
+    "runtime": 162,
+    "genres": [
+      {"id": 1, "name": "액션"},
+      {"id": 2, "name": "모험"},
+      {"id": 9, "name": "판타지"},
+      {"id": 15, "name": "SF"}
+    ],
+    "vote_average": 7.6,
+    "popularity": 90.1,
+    "poster_path": "/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+    "overview": "2154년, 하반신이 마비된 전직 해병대원 제이크 설리는 판도라 행성으로 파견된다. 인간의 의식을 주입한 아바타를 이용해 나비 족과 교류하던 그는 점차 그들의 세계에 빠져든다.",
+    "release_date": "2009-12-10",
+    "adult": false,
+    "providers": [{"provider_id": 337, "provider_name": "Disney Plus"}],
+    "tags": ["영상미", "3D", "환경", "SF"]
+  },
+  {
+    "movie_id": 603,
+    "title": "매트릭스",
+    "original_title": "The Matrix",
+    "runtime": 136,
+    "genres": [
+      {"id": 1, "name": "액션"},
+      {"id": 15, "name": "SF"}
+    ],
+    "vote_average": 8.2,
+    "popularity": 72.4,
+    "poster_path": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "overview": "컴퓨터 해커 네오는 모피어스를 만나 자신이 살고 있는 세상이 가상현실이라는 충격적인 진실을 알게 된다. 인류를 지배하는 기계와의 전쟁에서 '그'가 구원자라는 예언을 믿게 되는데...",
+    "release_date": "1999-03-30",
+    "adult": false,
+    "providers": [{"provider_id": 8, "provider_name": "Netflix"}],
+    "tags": ["액션", "철학적", "SF", "혁신적"]
+  },
+  {
+    "movie_id": 155,
+    "title": "다크 나이트",
+    "original_title": "The Dark Knight",
+    "runtime": 152,
+    "genres": [
+      {"id": 7, "name": "드라마"},
+      {"id": 1, "name": "액션"},
+      {"id": 5, "name": "범죄"},
+      {"id": 16, "name": "스릴러"}
+    ],
+    "vote_average": 8.5,
+    "popularity": 82.1,
+    "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "overview": "고담시의 범죄조직들을 소탕하려는 배트맨. 그러나 조커라는 새로운 악당이 등장하면서 고담시는 혼란에 빠진다. 배트맨은 조커의 광기에 맞서 도시를 지키기 위해 모든 것을 걸어야 한다.",
+    "release_date": "2008-07-16",
+    "adult": false,
+    "providers": [{"provider_id": 356, "provider_name": "Wavve"}],
+    "tags": ["히어로", "악당", "긴장감", "명연기"]
+  },
+  {
+    "movie_id": 122,
+    "title": "반지의 제왕: 왕의 귀환",
+    "original_title": "The Lord of the Rings: The Return of the King",
+    "runtime": 201,
+    "genres": [
+      {"id": 2, "name": "모험"},
+      {"id": 9, "name": "판타지"},
+      {"id": 1, "name": "액션"}
+    ],
+    "vote_average": 8.5,
+    "popularity": 68.7,
+    "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "overview": "프로도와 샘은 골룸의 안내로 모르도르로 향한다. 아라곤은 곤도르를 구하기 위해 망자들의 군대를 이끌고, 사우론의 대군과 최후의 결전을 벌인다.",
+    "release_date": "2003-12-01",
+    "adult": false,
+    "providers": [{"provider_id": 97, "provider_name": "Watcha"}],
+    "tags": ["판타지", "서사시", "명작", "대작"]
+  },
+  {
+    "movie_id": 497,
+    "title": "그린 북",
+    "original_title": "Green Book",
+    "runtime": 130,
+    "genres": [
+      {"id": 7, "name": "드라마"},
+      {"id": 4, "name": "코미디"}
+    ],
+    "vote_average": 8.2,
+    "popularity": 58.4,
+    "poster_path": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+    "overview": "1962년, 이탈리아계 미국인 토니 발레롱가는 흑인 천재 피아니스트 돈 셜리의 운전기사로 고용된다. 두 사람은 인종차별이 극심한 미국 남부를 여행하며 우정을 쌓아간다.",
+    "release_date": "2018-11-16",
+    "adult": false,
+    "providers": [{"provider_id": 8, "provider_name": "Netflix"}],
+    "tags": ["감동", "우정", "인종차별", "실화"]
+  },
+  {
+    "movie_id": 398818,
+    "title": "콰이어트 플레이스",
+    "original_title": "A Quiet Place",
+    "runtime": 90,
+    "genres": [
+      {"id": 11, "name": "공포"},
+      {"id": 7, "name": "드라마"},
+      {"id": 15, "name": "SF"}
+    ],
+    "vote_average": 7.4,
+    "popularity": 62.3,
+    "poster_path": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+    "overview": "소리를 내면 죽는다. 청각에 의지해 인간을 사냥하는 생명체에 의해 문명이 붕괴된 세상. 한 가족은 소리를 내지 않고 생존하기 위해 매일 싸운다.",
+    "release_date": "2018-04-03",
+    "adult": false,
+    "providers": [{"provider_id": 356, "provider_name": "Wavve"}],
+    "tags": ["공포", "생존", "긴장감", "가족"]
+  },
+  {
+    "movie_id": 607,
+    "title": "맨 인 블랙",
+    "original_title": "Men in Black",
+    "runtime": 98,
+    "genres": [
+      {"id": 1, "name": "액션"},
+      {"id": 2, "name": "모험"},
+      {"id": 4, "name": "코미디"},
+      {"id": 15, "name": "SF"}
+    ],
+    "vote_average": 7.2,
+    "popularity": 55.1,
+    "poster_path": "/f24UVKq3UiQWLqGWdqjwkzgB8j8.jpg",
+    "overview": "뉴욕 경찰 제임스 에드워즈는 외계인을 관리하는 비밀 조직 MIB에 스카웃된다. 베테랑 요원 K와 함께 지구에 숨어 사는 외계인들을 관리하며 은하계의 위협에 맞서 싸운다.",
+    "release_date": "1997-07-02",
+    "adult": false,
+    "providers": [{"provider_id": 8, "provider_name": "Netflix"}],
+    "tags": ["코미디", "SF", "외계인", "액션"]
+  },
+  {
+    "movie_id": 13,
+    "title": "포레스트 검프",
+    "original_title": "Forrest Gump",
+    "runtime": 142,
+    "genres": [
+      {"id": 4, "name": "코미디"},
+      {"id": 7, "name": "드라마"},
+      {"id": 14, "name": "로맨스"}
+    ],
+    "vote_average": 8.5,
+    "popularity": 74.8,
+    "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "overview": "IQ 75의 순수한 청년 포레스트 검프. 그는 단순한 삶의 철학과 순수한 마음으로 미국 현대사의 굵직한 사건들에 우연히 관여하게 되며, 사랑하는 여인 제니를 평생 기다린다.",
+    "release_date": "1994-06-23",
+    "adult": false,
+    "providers": [{"provider_id": 97, "provider_name": "Watcha"}],
+    "tags": ["감동", "인생", "역사", "로맨스"]
+  },
+  {
+    "movie_id": 644,
+    "title": "아이 엠 샘",
+    "original_title": "I Am Sam",
+    "runtime": 132,
+    "genres": [
+      {"id": 7, "name": "드라마"}
+    ],
+    "vote_average": 7.6,
+    "popularity": 48.2,
+    "poster_path": "/krT7G9eRvfbr5LZqvGiSMNxQIQd.jpg",
+    "overview": "7살 지능을 가진 샘은 홀로 딸 루시를 키운다. 루시가 7살이 되자 아동보호국은 샘에게서 양육권을 빼앗으려 한다. 샘은 딸을 지키기 위해 변호사와 함께 법정 싸움을 시작한다.",
+    "release_date": "2001-12-28",
+    "adult": false,
+    "providers": [{"provider_id": 356, "provider_name": "Wavve"}],
+    "tags": ["감동", "가족", "법정", "눈물"]
+  },
+  {
+    "movie_id": 862,
+    "title": "토이 스토리",
+    "original_title": "Toy Story",
+    "runtime": 81,
+    "genres": [
+      {"id": 3, "name": "애니메이션"},
+      {"id": 4, "name": "코미디"},
+      {"id": 8, "name": "가족"}
+    ],
+    "vote_average": 8.0,
+    "popularity": 65.9,
+    "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "overview": "앤디의 방에서 가장 사랑받던 장난감 우디. 그러나 앤디의 생일 선물로 버즈 라이트이어가 오면서 모든 것이 바뀐다. 우디와 버즈의 우정과 모험이 시작된다.",
+    "release_date": "1995-10-30",
+    "adult": false,
+    "providers": [{"provider_id": 337, "provider_name": "Disney Plus"}],
+    "tags": ["픽사", "우정", "어린이", "명작"]
+  },
+  {
+    "movie_id": 324857,
+    "title": "스파이더맨: 홈커밍",
+    "original_title": "Spider-Man: Homecoming",
+    "runtime": 133,
+    "genres": [
+      {"id": 1, "name": "액션"},
+      {"id": 2, "name": "모험"},
+      {"id": 15, "name": "SF"}
+    ],
+    "vote_average": 7.4,
+    "popularity": 77.5,
+    "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+    "overview": "시빌 워에서 아이언맨과 함께 싸운 피터 파커. 일상으로 돌아온 그는 평범한 고등학생으로 지내면서 동네의 친절한 이웃 스파이더맨으로 활동한다.",
+    "release_date": "2017-07-05",
+    "adult": false,
+    "providers": [{"provider_id": 337, "provider_name": "Disney Plus"}],
+    "tags": ["히어로", "청춘", "액션", "마블"]
+  },
+  {
+    "movie_id": 335984,
+    "title": "블레이드 러너 2049",
+    "original_title": "Blade Runner 2049",
+    "runtime": 164,
+    "genres": [
+      {"id": 15, "name": "SF"},
+      {"id": 7, "name": "드라마"}
+    ],
+    "vote_average": 7.5,
+    "popularity": 52.8,
+    "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "overview": "2049년, 신형 블레이드 러너 K는 오래 묻혀 있던 비밀을 발견한다. 이 비밀은 남아 있는 사회를 혼란에 빠뜨릴 수 있다. K는 30년간 행방불명된 전직 블레이드 러너 릭 데커드를 찾아 나선다.",
+    "release_date": "2017-10-04",
+    "adult": false,
+    "providers": [{"provider_id": 8, "provider_name": "Netflix"}],
+    "tags": ["SF", "영상미", "철학적", "느와르"]
+  }
+]
